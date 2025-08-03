@@ -13,7 +13,7 @@ const Navbar = () => {
                 trigger: "nav",
                 start: "bottom top",
                 scrub: true,
-                // markers: true,
+                markers: false,
             }
         });
 
