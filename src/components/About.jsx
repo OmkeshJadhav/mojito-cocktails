@@ -59,7 +59,7 @@ const About = () => {
                                 <span>4.6</span>/5
                             </p>
                             <p className="text-sm text-white-100">
-                                More than +12000 customers
+                                More than +10000 customers
                             </p>
                         </div>
                     </div>
